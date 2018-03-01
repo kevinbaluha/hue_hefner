@@ -1,0 +1,19 @@
+{
+  "name": "hue",
+  "version": "1.0.0",
+  "description": "hue tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinbaluha/hue_hefner.git"
+  },
+  "author": "Kevin Baluha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinbaluha/hue_hefner/issues"
+  },
+  "homepage": "https://github.com/kevinbaluha/hue_hefner#readme"
+}
